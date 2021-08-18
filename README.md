@@ -29,6 +29,6 @@ Follow the below given link https://techapple.net/2014/07/flex-windows-lex-and-y
 3. To compile YACC file type:
    `yacc -d <filename>.y`
 4. Build the Lex and Yacc file using gcc/cc command:
-   `cc lex. yy. c y. tab. h -ll`
+   `cc lex.yy.c y.tab.h -ll`
 5. Get the output :
    `./a.out`
